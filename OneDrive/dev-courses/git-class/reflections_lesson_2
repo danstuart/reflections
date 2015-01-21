@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates an empty repository and lists uncommited files. You need to create it so it exists and you can commit files to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It gives you a place to make changes before fully committing and a place for others to review code and run tests.
