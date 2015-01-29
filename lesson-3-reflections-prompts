@@ -17,3 +17,7 @@ You can revert changes and backtrack, and also run diffs.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You would need some other versioning system, or at least use a repository that others could access, but you'd need to declare when you were checking files out and in.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You can work on your branch, test changes on a local version and not push changes to master until done. This is especially important if master is a production environment for a live webiste.
