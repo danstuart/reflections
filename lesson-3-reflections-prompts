@@ -13,3 +13,4 @@ Forks creates a new version of the repository, close is a new version but linked
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can revert changes and backtrack, and also run diffs.
+
